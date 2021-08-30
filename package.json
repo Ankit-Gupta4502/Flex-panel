@@ -1,0 +1,15 @@
+{
+  "name": "flex-panel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://Ankit-Gupta4502.github.io/flex-panel",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
